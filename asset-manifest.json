@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/thunk/static/css/main.073c9b0a.css",
+    "main.js": "/thunk/static/js/main.c50c7308.js",
+    "index.html": "/thunk/index.html",
+    "main.073c9b0a.css.map": "/thunk/static/css/main.073c9b0a.css.map",
+    "main.c50c7308.js.map": "/thunk/static/js/main.c50c7308.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c50c7308.js"
+  ]
+}
